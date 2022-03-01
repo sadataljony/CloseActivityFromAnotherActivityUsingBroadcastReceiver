@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CloseActivityUsingBroadcastReceiver</string>
+    <string name="go_to_second_activity">Go To Second Activity</string>
+    <string name="go_to_third_activity">Go To Third Activity</string>
+    <string name="close_this_activity">Close This Activity</string>
+    <string name="close_second_activity">Close Second Activity</string>
+    <string name="close_first_activity">Close First Activity</string>
+    <string name="back_to_previous_activity">Back to Previous Activity</string>
+</resources>
